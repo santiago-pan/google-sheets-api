@@ -24,3 +24,7 @@ function getDate() {
   return new Date().toLocaleString("es-ES", { timeZone: "Asia/Taipei" }).replace(",", "")  
 }
 ```
+
+In this example I am tracking the gym and pool occupation of the sport center I usually go.
+
+![graph example](https://github.com/santiago-pan/google-sheets-api/blob/main/graph.png?raw=true =100x20)
