@@ -27,4 +27,4 @@ function getDate() {
 
 In this example I am tracking the gym and pool occupation of the sport center I usually go.
 
-![graph example](https://github.com/santiago-pan/google-sheets-api/blob/main/graph.png?raw=true=100x20)
+![graph example](https://github.com/santiago-pan/google-sheets-api/blob/main/graph2.png?raw=true=100x20)
